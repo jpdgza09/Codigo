@@ -1,5 +1,5 @@
 import math
-import numpy as np
+import numpy as n
 from PIL import Image
 from scipy.interpolate import Rbf
 
